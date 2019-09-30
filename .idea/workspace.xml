@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb2872e-8381-4a06-ab9a-f73dfd551dc8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="228" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ApachFlink">
+      <favorite_root url="Maven: org.tensorflow:proto:1.13.1" type="namedLibrary" klass="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode">
+        <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/CPUInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/GPUInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/CommitId.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/EntryValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/MemoryInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/TestResults.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/PlatformInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/TestLogProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BenchmarkEntry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BenchmarkEntries.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/CPUInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/GPUInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/RunConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/CommitIdOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BuildConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/AvailableDeviceInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/EntryValueOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/MemoryInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/MachineConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/TestResultsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/PlatformInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BenchmarkEntryOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BenchmarkEntriesOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/RunConfigurationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/BuildConfigurationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/AvailableDeviceInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/testlog/MachineConfigurationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/Event.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SaverDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/LogMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedSlice.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SessionLog.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/EventProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SaverProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerHealth.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/EventOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/IteratorProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedSliceMeta.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WatchdogConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/BundleEntryProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/BundleHeaderProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedTensorSlices.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SaverDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/TaggedRunMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/TensorBundleProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerShutdownMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/LogMessageOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedSliceOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SessionLogOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedTensorSliceMeta.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/IteratorStateMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedTensorSliceProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerHeartbeatRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedSliceMetaOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WatchdogConfigOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerHeartbeatResponse.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/BundleEntryProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/BundleHeaderProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedTensorSlicesOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/TaggedRunMetadataOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/SavedTensorSliceMetaOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/IteratorStateMetadataOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerHeartbeatRequestOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/util/WorkerHeartbeatResponseOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/Example.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/Feature.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/Features.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/BytesList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FloatList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/Int64List.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureLists.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/ExampleProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/SequenceExample.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/ExampleOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeaturesOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/BytesListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FloatListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/Int64ListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/VarLenFeatureProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FixedLenFeatureProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureListsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/SequenceExampleOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/ExampleParserConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/VarLenFeatureProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FeatureConfigurationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/FixedLenFeatureProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/ExampleParserConfigurationProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/example/ExampleParserConfigurationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/Code.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ApiDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ApiDefs.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/Summary.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DataType.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AttrValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/KernelDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/StepStats.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ValuesDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GPUOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/KernelList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/LocalLinks.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeOutput.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RPCOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RunOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SavedModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VersionDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ConfigProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebugProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/FunctionDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GradientDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryStats.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpDefProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RunMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TypesProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VariableDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ApiDefProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AssetFileDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ConfigProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CostGraphDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebugOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MetaGraphDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NameAttrList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SignatureDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CollectionDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogStep.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeExecStats.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpDeprecation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CondContextDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceLocality.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/FunctionProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/HistogramProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/QueueRunnerDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ResourceHandle.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RewriterConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VariableProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VersionsProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ApiDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AttrValueProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CallableOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CostGraphProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceStepStats.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/KernelDefProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/LogMemoryProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MetaGraphProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ReaderBaseState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/StepStatsProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/WhileContextDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocationRecord.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ApiDefsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebugTensorWatch.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceAttributes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ErrorCodesProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/InterconnectLink.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NamedTensorProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OptimizerOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ReaderBaseProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SaveSliceInfoDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SavedModelProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorShapeProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorSliceProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ControlFlowProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NamedTensorProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/QueueRunnerProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorDescription.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorShapeProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorSliceProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AttrValueOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebuggedSourceFile.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/FunctionDefLibrary.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/KernelDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/StepStatsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryDescription.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ValuesDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocatorMemoryUsed.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AutoParallelOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebuggedSourceFiles.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GPUOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/KernelListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/LocalLinksOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeOutputOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RPCOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ResourceHandleProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RunOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SavedModelOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VersionDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ConfigProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/FunctionDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GradientDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryStatsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RewriterConfigProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RunMetadataOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VariableDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocationDescription.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AssetFileDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ControlFlowContextDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CostGraphDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebugOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorOutput.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MetaGraphDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NameAttrListOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SignatureDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ThreadPoolOptionProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CollectionDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceAttributesProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferInfoProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInput.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogRawAllocation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogStepOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NodeExecStatsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OpDeprecationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ScopedAllocatorOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VariantTensorDataProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CondContextDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceLocalityOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/HistogramProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/QueueRunnerDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RewriterConfigOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorDescriptionProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/CallableOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceStepStatsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogRawDeallocation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ReaderBaseStateOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryMetadataOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/WhileContextDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocationRecordOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebugTensorWatchOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DeviceAttributesOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/InterconnectLinkOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorAllocation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/NamedTensorProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/OptimizerOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SaveSliceInfoDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorConnectionOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorShapeProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorSliceProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferConstNodeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInputInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/TensorDescriptionOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocationDescriptionProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebuggedSourceFileOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/FunctionDefLibraryOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeOutputInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorDeallocation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RemoteFusedGraphExecuteInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/SummaryDescriptionOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocatorMemoryUsedOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AutoParallelOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/DebuggedSourceFilesOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ResourceHandleProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/AllocationDescriptionOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ControlFlowContextDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorOutputOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ThreadPoolOptionProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferGraphInputNodeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInputOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogRawAllocationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/ScopedAllocatorOptionsOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/VariantTensorDataProtoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferGraphOutputNodeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RemoteFusedGraphExecuteInfoProto.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogRawDeallocationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorAllocationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferConstNodeInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeInputInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferNodeOutputInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/MemoryLogTensorDeallocationOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/RemoteFusedGraphExecuteInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferGraphInputNodeInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/framework/GraphTransferGraphOutputNodeInfoOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/JobDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ServerDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ClusterDef.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ServerProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ClusterProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/JobDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ServerDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/org/tensorflow/distruntime/ClusterDefOrBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/maven" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/maven/org.tensorflow" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/maven/org.tensorflow/proto" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/maven/org.tensorflow/proto/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/maven/org.tensorflow/proto/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/tensorflow" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/tensorflow/TransportOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/tensorflow/MemmappedFileSystem.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/tensorflow/DevicePropertiesProtos.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/tensorflow/proto/1.13.1/proto-1.13.1.jar!/tensorflow/CheckpointableObjectGraphOuterClass.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QrIiWspzXiFf9sBOdJfYUIsv4F" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/intel/analytics/zoo/analytics-zoo-bigdl_0.9.0-spark_2.4.3/0.6.0-SNAPSHOT/analytics-zoo-bigdl_0.9.0-spark_2.4.3-0.6.0-SNAPSHOT-sources.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="$PROJECT_DIR$/../tianchi/saved_model.tar.gz" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/src/main/resources/inference" />
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../tianchi/saved_model" />
+      </envs>
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.fk.Main" />
+      <module name="ApachFlink" />
+      <option name="PROGRAM_PARAMETERS" value="-p all-in-one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb2872e-8381-4a06-ab9a-f73dfd551dc8" name="Default Changelist" comment="" />
+      <created>1568522415683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568522415683</updated>
+      <workItem from="1568522419343" duration="891000" />
+      <workItem from="1568535915365" duration="2539000" />
+      <workItem from="1568560509656" duration="6966000" />
+      <workItem from="1568597712711" duration="1754000" />
+      <workItem from="1568683814513" duration="13097000" />
+      <workItem from="1568732930665" duration="3963000" />
+      <workItem from="1568758944582" duration="5580000" />
+      <workItem from="1568786334045" duration="2166000" />
+      <workItem from="1568791063608" duration="4044000" />
+      <workItem from="1568800375522" duration="13618000" />
+      <workItem from="1568856705550" duration="14282000" />
+      <workItem from="1569128915138" duration="24761000" />
+      <workItem from="1569156283095" duration="548000" />
+      <workItem from="1569157692957" duration="1540000" />
+      <workItem from="1569484753133" duration="15983000" />
+      <workItem from="1569503290140" duration="2169000" />
+      <workItem from="1569546924797" duration="14257000" />
+      <workItem from="1569678429905" duration="917000" />
+      <workItem from="1569681881599" duration="20679000" />
+      <workItem from="1569723106220" duration="17707000" />
+      <workItem from="1569741375605" duration="8508000" />
+      <workItem from="1569754035927" duration="9652000" />
+      <workItem from="1569770015184" duration="18075000" />
+      <workItem from="1569814581856" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.10.0/protobuf-java-3.10.0.jar!/com/google/protobuf/CodedInputStream.class</url>
+          <line>2431</line>
+          <properties class="com.google.protobuf.CodedInputStream.ArrayDecoder" method="readTag">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ApachFlink$Main.ic" NAME="Main Coverage Results" MODIFIED="1569492117267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fk.*</FILTER>
+    </SUITE>
+  </component>
+</project>
